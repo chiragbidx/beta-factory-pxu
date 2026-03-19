@@ -189,4 +189,4 @@ export const Navbar = ({ isLoggedIn = false }: NavbarProps) => {
       </div>
     </header>
   );
-};
+}
